@@ -7,7 +7,7 @@
  
  ----
 <p align="center"> 
-  <img src="[CCEF03A3-80B5-43F8-9846-CB9AC9CE7F3C.png](https://cdn.discordapp.com/attachments/1058051418369568768/1330421752337010750/unknown.png?ex=678deb4f&is=678c99cf&hm=1b5c786dee5331ed9bcfd08f1f52397d94d6f815b05a3d748a312aa123d821a2&)">
+  <img src="https://cdn.discordapp.com/attachments/1058051418369568768/1330421752337010750/unknown.png?ex=678deb4f&is=678c99cf&hm=1b5c786dee5331ed9bcfd08f1f52397d94d6f815b05a3d748a312aa123d821a2&">
 </p> 
 
 ## INSTALLAION
